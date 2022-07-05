@@ -3,10 +3,10 @@
 ## Action
 
 ### URL
-LinkBehaviour_5CDB47DE_4F07_2CC7_41C8_349D35AF11E7.source = https://www.elementfestival.com.br/
 LinkBehaviour_9D6C9151_BB35_E9D0_41D6_0B2997673CC1.source = https://www.elementfestival.com.br/
+LinkBehaviour_5CDB47DE_4F07_2CC7_41C8_349D35AF11E7.source = https://www.elementfestival.com.br/
 LinkBehaviour_53C807DE_5B3E_CB2D_41C8_95EDF9FA2FD6.source = https://www.facebook.com/elementfestivalbr
-LinkBehaviour_133573C6_C521_A23A_41E7_3F4B97C676EE.source = https://www.facebook.com/elementfestivalbr
+LinkBehaviour_133573C6_C521_A23A_41E7_3F4B97C676EE.source = https://www.facebook.com/elementfestivalbr/
 LinkBehaviour_2078C997_C52E_AE5B_41E3_D171E362FCF5.source = https://www.instagram.com/2birds_360/
 LinkBehaviour_363F064C_C521_A2CE_41B6_71367E0A1E62.source = https://www.instagram.com/2birds_360/
 LinkBehaviour_53C827DE_5B3E_CB2D_41C9_6DA38C777CFB.source = https://www.instagram.com/elementfestivalbr/
